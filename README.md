@@ -7,4 +7,3 @@ Files included are:
  - A Jupyter Notebook
  - A R script
  - A technical report
- - Presentation
